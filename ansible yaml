@@ -1,0 +1,9 @@
+---
+Name : 
+ host : all
+ -task
+     state:
+     condition:
+  -task
+     state:
+     condition:
