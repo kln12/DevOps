@@ -1,0 +1,5 @@
+from Ubuntu:v1
+label klnarasimha@gmail.com
+copy path
+expose 8080
+cmd (" "," "," ")
