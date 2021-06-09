@@ -1,0 +1,11 @@
+pipeline
+stage{
+ stage1{ 
+               "build"
+          }
+stage2{ 
+        "test"
+       }
+  stage3 {
+                "deploy"
+          }
