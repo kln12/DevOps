@@ -1,9 +1,7 @@
 ---
 Name : 
  host : all
- -task
-     state:
-     condition:
-  -task
-     state:
-     condition:
+  task
+    -name: install Node.js, NPM and git
+     apt: name= nodejs,npm,git
+  
